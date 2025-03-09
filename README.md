@@ -1,5 +1,3 @@
-# Vinicius Oliveira
-
 # Vinicius Oliveira ☕
 
 **`Cientista de Dados`**
