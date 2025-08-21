@@ -2,12 +2,11 @@
 
 **`Cientista de Dados`**
 
-Me chamo Vinicius de Oliveira e tenho 20 anos. Estou em busca de me tornar um cientista de dados, estudo há 5 meses e sempre busco evoluir. Minha paixão pela área surgiu ao perceber como os dados podem transformar negócios e otimizar processos.
+Sou Vinicius de Oliveira, 20 anos, cientista de dados e busco sempre melhorar e evoluir na área. Minha paixão por dados surgiu ao perceber como eles podem transformar negócios, otimizar processos e gerar insights estratégicos.
 
-Tenho conhecimentos em Python (POO), SQL, MySQL, Pandas, Numpy, Seaborn e Scikit-learn, Git e Github. Gosto de resolver problemas e explorar dados para gerar insights estratégicos. Atualmente, foco em aprimorar minhas habilidades em machine learning e automação para otimizar processos.
+Tenho experiência em Python, SQL e MySQL, e aplico meus conhecimentos em machine learning, deep learning e desenvolvimento de agentes de IA para resolver problemas complexos e criar soluções inovadoras.
 
-Estou sempre disposto a aprender, enfrentar novos desafios e contribuir com soluções inovadoras.
-
+Sou curioso, proativo e motivado a enfrentar desafios, sempre buscando aprimorar habilidades técnicas e contribuir com projetos de impacto.
 <p >
     </a> 
     <a href="https://github.com/ViniiOliveiraa?tab=repositories&sort=stargazers">
