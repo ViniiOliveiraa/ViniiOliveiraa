@@ -2,11 +2,11 @@
 
 **`Cientista de Dados`**
 
-Sou Vinicius de Oliveira, 20 anos, cientista de dados e busco sempre melhorar e evoluir na área. Minha paixão por dados surgiu ao perceber como eles podem transformar negócios, otimizar processos e gerar insights estratégicos.
+Data Scientist em evolução, apaixonado por transformar dados em insights estratégicos que impulsionam resultados reais nos negócios. Acredito no poder da informação como diferencial competitivo para otimizar processos, apoiar decisões e criar valor sustentável.
 
-Tenho experiência em Python, SQL e MySQL, e aplico meus conhecimentos em machine learning, deep learning e desenvolvimento de agentes de IA para resolver problemas complexos e criar soluções inovadoras.
+Tenho experiência em análise, modelagem e visualização de dados, utilizando ferramentas como Python, SQL e Power BI, além de estar me aprofundando em Machine Learning, Deep Learning, LLMs (como BERT) e Big Data. Meu foco é aplicar tecnologia e inteligência artificial para resolver problemas complexos e identificar oportunidades de crescimento.
 
-Sou curioso, proativo e motivado a enfrentar desafios, sempre buscando aprimorar habilidades técnicas e contribuir com projetos de impacto.
+Estou aberto a novas conexões, colaborações e desafios que me permitam evoluir continuamente, aplicando criatividade e ciência de dados para transformar ideias em soluções práticas.
 <p >
     </a> 
     <a href="https://github.com/ViniiOliveiraa?tab=repositories&sort=stargazers">
