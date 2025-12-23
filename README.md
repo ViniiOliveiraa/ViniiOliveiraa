@@ -1,4 +1,5 @@
-#👋 Hi, I'm Vinicius
+👋 Hi, I'm Vinicius | Junior Data Engineer
+
 
 Junior Data Engineer focused on building reliable and scalable data pipelines.
 
