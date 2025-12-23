@@ -1,12 +1,24 @@
-# Vinicius Oliveira ☕
+#👋 Hi, I'm Vinicius
 
-**`Cientista de Dados`**
+Junior Data Engineer focused on building reliable and scalable data pipelines.
 
-Data Scientist em evolução, apaixonado por transformar dados em insights estratégicos que impulsionam resultados reais nos negócios. Acredito no poder da informação como diferencial competitivo para otimizar processos, apoiar decisões e criar valor sustentável.
+Tech Stack
+- Python
+- SQL
+- Pandas
+- Power BI (basic)
+- Git & GitHub
 
-Tenho experiência em análise, modelagem e visualização de dados, utilizando ferramentas como Python, SQL e Power BI, além de estar me aprofundando em Machine Learning, Deep Learning, LLMs (como BERT) e Big Data. Meu foco é aplicar tecnologia e inteligência artificial para resolver problemas complexos e identificar oportunidades de crescimento.
+What I Do
+- Build ETL pipelines
+- Automate data ingestion and transformation
+- Organize data for analytics and dashboards
 
-Estou aberto a novas conexões, colaborações e desafios que me permitam evoluir continuamente, aplicando criatividade e ciência de dados para transformar ideias em soluções práticas.
+Current Goals
+- Improve data engineering best practices
+- Build production-like pipelines
+- Transition fully into Data Engineering
+
 <p >
     </a> 
     <a href="https://github.com/ViniiOliveiraa?tab=repositories&sort=stargazers">
