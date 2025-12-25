@@ -1,24 +1,30 @@
-👋 Hi, I'm Vinicius | Junior Data Engineer
+Sou Cientista de Dados em formação com foco em Inteligência Artificial, com base sólida em Python, SQL e análise de dados, atuando no desenvolvimento de soluções orientadas a dados para problemas reais de negócio.
 
+Tenho experiência com:
 
-Junior Data Engineer focused on building reliable and scalable data pipelines.
+Análise exploratória de dados (EDA)
 
-Tech Stack
-- Python
-- SQL
-- Pandas
-- Power BI (basic)
-- Git & GitHub
+Limpeza, tratamento e padronização de dados
 
-What I Do
-- Build ETL pipelines
-- Automate data ingestion and transformation
-- Organize data for analytics and dashboards
+Feature Engineering
 
-Current Goals
-- Improve data engineering best practices
-- Build production-like pipelines
-- Transition fully into Data Engineering
+Modelos de Machine Learning supervisionados
+
+Visualização de dados para apoio à tomada de decisão
+
+Meu objetivo é evoluir continuamente em Machine Learning e IA, aplicando modelos estatísticos e algoritmos inteligentes para gerar insights, previsões e automações que tragam valor prático às empresas.
+
+🧠 Principais Tecnologias
+
+Python (Pandas, NumPy, Scikit-learn)
+
+SQL
+
+Power BI
+
+Jupyter Notebook
+
+Git & GitHub
 
 ---
 
