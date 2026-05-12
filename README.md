@@ -1,33 +1,37 @@
-Sou Cientista de Dados em formação com foco em Inteligência Artificial, com base sólida em Python, SQL e análise de dados, direcionando meus estudos e projetos para Machine Learning e modelos baseados em Transformers (LLMs).
+Atuo na análise e resolução de problemas utilizando dados, automação e Inteligência Artificial para gerar soluções eficientes e orientadas a resultados. Tenho conhecimento em Python, SQL, Machine Learning e análise de dados, aplicando tecnologias para otimizar processos, acelerar serviços e apoiar tomadas de decisão estratégicas.
 
-Atuo no desenvolvimento de soluções orientadas a dados, passando por todas as etapas do processo: coleta, limpeza, preparação, modelagem e interpretação dos resultados, sempre com foco em problemas reais de negócio.
+Possuo experiência em coleta, limpeza, tratamento, gestão e arquitetura de dados, buscando sempre estruturar informações da melhor forma para obter maior performance, escalabilidade e qualidade nos resultados. Também utilizo ferramentas de IA para aumentar produtividade, automatizar tarefas e agilizar fluxos de trabalho.
 
 Tenho experiência e estudos em:
 
-- Análise exploratória de dados (EDA)
-- Limpeza, tratamento e padronização de dados
-- Feature Engineering
-- Modelos de Machine Learning supervisionados
-- Introdução a LLMs e NLP, utilizando arquiteturas Transformer
-- Estudos práticos com BERT, GPT e modelos baseados em Transformers
+Análise exploratória de dados (EDA)
+Limpeza, tratamento e padronização de dados
+Gestão e arquitetura de dados
+Feature Engineering
+Modelos de Machine Learning supervisionados
+NLP e LLMs utilizando arquiteturas Transformer
+Estudos práticos com BERT, GPT e modelos baseados em Transformers
+Automação e otimização de processos com IA
 
 Principais Tecnologias e Conceitos:
 
-- Python (Pandas, NumPy, Scikit-learn)
-- SQL
-- Power BI
-- Machine Learning
-- NLP e LLMs (BERT, GPT, Transformers)
-- Jupyter Notebook
-- Git & GitHub
+Python (Pandas, NumPy, Scikit-learn)
+SQL
+Power BI
+Machine Learning
+NLP e LLMs (BERT, GPT, Transformers)
+Jupyter Notebook
+Git & GitHub
+IA aplicada à automação e produtividade
 
 Foco Atual:
 
-- Machine Learning aplicado a problemas de negócio
-- Preparação e engenharia de dados para IA
-- Modelagem preditiva
-- Estudo e aplicação de LLMs (BERT, GPT e Transformers)
+Machine Learning aplicado a problemas de negócio
+Engenharia, gestão e arquitetura de dados
+Modelagem preditiva
+Aplicação prática de LLMs e IA Generativa
+Automação inteligente de processos
 
 Objetivo Profissional:
 
-Atuar como Cientista de Dados / Profissional de Inteligência Artificial, desenvolvendo soluções inteligentes baseadas em dados e modelos de linguagem de grande porte (LLMs) para automação, análise avançada e suporte estratégico à tomada de decisão.
+Atuar como Cientista de Dados / Profissional de Inteligência Artificial, desenvolvendo soluções inteligentes através de dados, Machine Learning e IA Generativa para resolver problemas, automatizar processos e gerar impacto estratégico para empresas e negócios.
