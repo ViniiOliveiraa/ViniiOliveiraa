@@ -1,12 +1,22 @@
-Cientista de Dados com foco em Inteligência Artificial aplicada, desenvolvimento de sistemas com LLMs e automações inteligentes.
+# Olá! 👋 Sou Cientista de Dados focado em IA Aplicada
 
-Crio soluções utilizando Python, FastAPI, APIs, bancos de dados, agentes de IA, RAG (Retrieval-Augmented Generation) e pipelines de dados para transformar problemas complexos em sistemas reais, escaláveis e orientados a resultado.
+Transformo desafios complexos em produtos de software inteligentes. Trabalho unindo **Data Science**, **Inteligência Artificial Generativa (LLMs/RAG)** e **Engenharia de Software** para construir sistemas escaláveis, performáticos e sustentáveis.
 
-Tenho experiência com análise e preparação de dados, Machine Learning, NLP, integração com modelos Transformer e construção de aplicações baseadas em IA generativa. Meu foco está no desenvolvimento de soluções práticas utilizando LLMs, automações, agentes inteligentes e arquiteturas modernas para produtos orientados por dados.
+## 🚀 O que eu faço
+- **IA na Prática:** Desenvolvo e integro modelos de linguagem (LLMs), pipelines RAG e agentes inteligentes em aplicações web e fluxos de automação.
+- **Sistemas Industriais (Indústria 4.0):** Criação de sistemas de gestão (como MES em tempo real) aplicando NLP para comandos de voz na operação, Machine Learning para predição de qualidade e Text-to-SQL para decisões executivas.
+- **Engenharia de Dados e APIs:** Construção de pipelines de dados robustos e desenvolvimento de APIs RESTful estruturadas e seguras.
 
-Também aplico boas práticas de engenharia de software, qualidade de dados e estruturação de APIs, buscando construir sistemas performáticos, organizados e sustentáveis.
+## 🔬 Foco Atual de Estudos e Projetos
+- Engenharia de Dados para IA.
+- Desenvolvimento e orquestração de Agentes Autônomos.
+- Otimização de arquiteturas RAG (Retrieval-Augmented Generation).
+- Integração de modelos Transformer com interfaces modernas.
 
-Atualmente estudo e desenvolvo projetos envolvendo IA aplicada, engenharia de dados para IA, agentes autônomos, RAG, automações e integrações entre modelos de linguagem e aplicações web.
+## 🛠️ Stack Tecnológica
+- **Linguagens & Frameworks:** Python, FastAPI, SQL.
+- **Inteligência Artificial:** LLMs, NLP, Machine Learning, RAG, Transformers.
+- **Dados & DevOps:** Power BI, Git, Modelagem de Dados, APIs.
 
-Tecnologias principais:
-Python • FastAPI • SQL • Power BI • Git • APIs • LLMs • RAG • Machine Learning • NLP
+---
+💡 *Buscando sempre aplicar boas práticas de engenharia de software e qualidade de dados para construir produtos que entregam valor real.*
