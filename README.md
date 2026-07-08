@@ -1,4 +1,4 @@
-# Olá! Sou Cientista de Dados focado em IA Aplicada
+# Cientista de Dados focado em IA Aplicada
 
 Transformo desafios complexos em produtos de software inteligentes. Trabalho unindo **Data Science**, **Inteligência Artificial Generativa (LLMs/RAG)** e **Engenharia de Software** para construir sistemas escaláveis, performáticos e sustentáveis.
 
@@ -19,4 +19,4 @@ Transformo desafios complexos em produtos de software inteligentes. Trabalho uni
 - **Dados & DevOps:** Power BI, Git, Modelagem de Dados, APIs.
 
 ---
-💡 *Buscando sempre aplicar boas práticas de engenharia de software e qualidade de dados para construir produtos que entregam valor real.*
+💡 *Buscando sempre aplicar boas práticas de arquitetura de software e qualidade de dados para construir produtos que entregam valor real.*
