@@ -1,22 +1,21 @@
-# Cientista de Dados focado em IA Aplicada
+### Olá! 👋 Sou Cientista de Dados & Arquiteto de Soluções em IA
 
-Transformo desafios complexos em produtos de software inteligentes. Trabalho unindo **Data Science**, **Inteligência Artificial Generativa (LLMs/RAG)** e **Engenharia de Software** para construir sistemas escaláveis, performáticos e sustentáveis.
+Sou um desenvolvedor focado em tirar modelos de Inteligência Artificial do jupyter notebook e transformá-los em **sistemas escaláveis, robustos e de alta performance**. 
 
-## 🚀 O que eu faço
-- **IA na Prática:** Desenvolvo e integro modelos de linguagem (LLMs), pipelines RAG e agentes inteligentes em aplicações web e fluxos de automação.
-- **Sistemas Industriais (Indústria 4.0):** Criação de sistemas de gestão (como MES em tempo real) aplicando NLP para comandos de voz na operação, Machine Learning para predição de qualidade e Text-to-SQL para decisões executivas.
-- **Engenharia de Dados e APIs:** Construção de pipelines de dados robustos e desenvolvimento de APIs RESTful estruturadas e seguras.
+Atuo na ponte entre a Ciência de Dados e a Engenharia de Software, construindo desde pipelines de dados até ecossistemas de agentes autônomos e APIs.
 
-## 🔬 Foco Atual de Estudos e Projetos
-- Engenharia de Dados para IA.
-- Desenvolvimento e orquestração de Agentes Autônomos.
-- Otimização de arquiteturas RAG (Retrieval-Augmented Generation).
-- Integração de modelos Transformer com interfaces modernas.
+#### 🚀 O que estou construindo no momento
+- 🏭 Desenvolvendo um **sistema MES (Manufacturing Execution System)** do zero para a indústria de pintura de frascos de perfume, aplicando conceitos de Indústria 4.0 para conectar o chão de fábrica à inteligência de dados.
+- 🧠 Implementando arquiteturas modernas de IA, focando em **RAG (Retrieval-Augmented Generation)**, LLMs e agentes autônomos.
+- 🏗️ Aprofundando meus estudos e práticas em **Arquitetura de Software**, Clean Architecture e System Design.
 
-## 🛠️ Stack Tecnológica
-- **Linguagens & Frameworks:** Python, FastAPI, SQL.
-- **Inteligência Artificial:** LLMs, NLP, Machine Learning, RAG, Transformers.
-- **Dados & DevOps:** Power BI, Git, Modelagem de Dados, APIs.
+#### 🛠️ Como eu construo (Tech Stack & Práticas)
+- **Engenharia de IA & Dados:** Machine Learning, NLP, RAG, LLMs (Integrações e Prompt Engineering), SQL, Pipelines de Dados.
+- **Backend & Arquitetura:** Python, FastAPI, Integração de APIs, Microsserviços, Design de Sistemas.
+- **Boas Práticas:** Clean Code, Qualidade de Dados, Manutenibilidade e Escalabilidade.
 
----
-💡 *Buscando sempre aplicar boas práticas de arquitetura de software e qualidade de dados para construir produtos que entregam valor real.*
+#### 📫 Vamos nos conectar?
+- **LinkedIn:** https://www.linkedin.com/in/viniciusoliveira000/
+- **E-mail:** finn1533@outlook.com
+
+> *"Dados sem uma arquitetura sólida são apenas relatórios. Meu objetivo é transformá-los em software produtivo."*
