@@ -1,4 +1,4 @@
-### Olá! 👋 Sou Cientista de Dados & Arquiteto de Soluções em IA
+### Olá! Sou Cientista de Dados & Arquiteto de Soluções em IA
 
 Sou um desenvolvedor focado em tirar modelos de Inteligência Artificial do jupyter notebook e transformá-los em **sistemas escaláveis, robustos e de alta performance**. 
 
