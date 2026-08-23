@@ -1,18 +1,16 @@
-### Olá! Sou Cientista de Dados & Arquiteto de Soluções em IA
+### Engenharia de Dados e Inteligência Artificial Aplicada à Soluções de Alto Impacto.
 
-Sou um desenvolvedor focado em tirar modelos de Inteligência Artificial do jupyter notebook e transformá-los em **sistemas escaláveis, robustos e de alta performance**. 
+Atuo na interseção entre Ciência de Dados, Inteligência Artificial Generativa e Arquitetura de Software, transformando desafios complexos de negócios em sistemas produtivos, escaláveis e de alta performance.
 
-Atuo na ponte entre a Ciência de Dados e a Engenharia de Software, construindo desde pipelines de dados até ecossistemas de agentes autônomos e APIs.
+Minha atuação vai além da modelagem teórica: foco na estruturação ponta a ponta de soluções corporativas, integrando ecossistemas de LLMs, arquiteturas de RAG (Retrieval-Augmented Generation) e agentes autônomos a pipelines de dados robustos e APIs de baixa latência.
 
-#### O que estou construindo no momento
--  Desenvolvendo um **sistema MES (Manufacturing Execution System)** do zero para a indústria de pintura de frascos de perfume, aplicando conceitos de Indústria 4.0 para conectar o chão de fábrica à inteligência de dados.
--  Implementando arquiteturas modernas de IA, focando em **RAG (Retrieval-Augmented Generation)**, LLMs e agentes autônomos.
--  Aprofundando meus estudos e práticas em **Arquitetura de Software**, Clean Architecture e System Design.
+#### Onde gero valor:
+• **Machine Learning & Modelagem Preditiva: Desenvolvimento de algoritmos preditivos (como modelos de análise de risco), garantindo a integridade do pipeline (mitigação de data leakage) e traduzindo métricas estatísticas em insights claros para a tomada de decisão.
+• **Arquitetura & Engenharia de IA: Desenvolvimento de ecossistemas orientados a LLMs e agentes inteligentes  projetados para automação de processos complexos e tomada de decisão em tempo real.
+• **Sistemas e APIs de Alta Performance: Aplicação de boas práticas de engenharia de software (Clean Architecture, microsserviços e integração contínua) para garantir resiliência, manutenibilidade e segurança.
+• **Governança e Qualidade de Dados: Construção e otimização de pipelines de dados que sustentam aplicações analíticas e preditivas confiáveis.
 
-#### Como eu construo (Tech Stack & Práticas)
-- **Engenharia de IA & Dados:** Machine Learning, NLP, RAG, LLMs (Integrações e Prompt Engineering), SQL, Pipelines de Dados.
-- **Backend & Arquitetura:** Python, FastAPI, Integração de APIs, Microsserviços, Design de Sistemas.
-- **Boas Práticas:** Clean Code, Qualidade de Dados, Manutenibilidade e Escalabilidade.
+Busco continuamente aplicar arquiteturas modernas para elevar o patamar de maturidade tecnológica dos produtos em que atuo, unindo rigor técnico e visão de negócio.
 
 #### Vamos nos conectar?
 - **LinkedIn:** https://www.linkedin.com/in/viniciusoliveira000/
